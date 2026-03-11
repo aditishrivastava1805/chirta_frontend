@@ -1,5 +1,5 @@
 
-  # Art Gallery Selling App
+  # CHRITRA Ecommerce website
 
   ## Running the code
 
