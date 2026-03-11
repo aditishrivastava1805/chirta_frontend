@@ -1,5 +1,5 @@
 
-  # CHRITRA Ecommerce website
+  # CHITRA Ecommerce website
 
   ## Running the code
 
